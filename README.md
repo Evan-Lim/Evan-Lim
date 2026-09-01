@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an undergraduate student in Electrical Engineering currently working on completing the core curriculum of 42 and various projects for various uses, including innovative ideas.
+I'm an undergraduate student in Electrical Engineering, currently working on completing the core curriculum of 42 and various projects for different uses, including innovative ideas.
 
 
 ## 🌐 Socials:
@@ -16,7 +16,7 @@ I'm an undergraduate student in Electrical Engineering currently working on comp
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Evan-Lim&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://komarev.com/ghpvc/?username=Evan-Lim&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
