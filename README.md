@@ -23,6 +23,7 @@ I'm an undergraduate student in Electrical Engineering, currently working on com
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Evan-Lim&repo=Evan-Lim%2F42PiscineExtra&show_owner=true&theme=shadow_green)](https://github.com/Evan-Lim/42PiscineExtra)
 ## Miscellaneous
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Evan-Lim&repo=Evan-Lim%2Fcrop_compiler&show_owner=true&theme=vue)](https://github.com/Evan-Lim/crop_compiler)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Evan-Lim&repo=Evan-Lim%2Fgrademe&show_owner=true&theme=vue)](https://github.com/Evan-Lim/grademe)
 <!--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
