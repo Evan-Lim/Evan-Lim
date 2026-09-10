@@ -14,7 +14,15 @@ I'm an undergraduate student in Electrical Engineering, currently working on com
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Evan-Lim&show_icons=true&include_all_commits=true&theme=shadow_green)](https://github-stats-extended.vercel.app/api?username=Evan-Lim&show_icons=true&include_all_commits=true&theme=shadow_green)
 </br>
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Evan-Lim&theme=shadow_green)](https://github-stats-extended.vercel.app/api/top-langs?username=Evan-Lim&theme=shadow_green)
-
+# Projects
+## 42cursus (Core Programme)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Evan-Lim&repo=Evan-Lim%2Flibft&show_owner=true&theme=shadow_blue)](https://github.com/Evan-Lim/libft)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Evan-Lim&repo=Evan-Lim%2Fft_printf&show_owner=true&theme=shadow_blue)](https://github.com/Evan-Lim/ft_printf)
+## 42 C Piscine
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Evan-Lim&repo=Evan-Lim%2F42Piscine&show_owner=true&theme=shadow_green)](https://github.com/Evan-Lim/42Piscine)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Evan-Lim&repo=Evan-Lim%2F42PiscineExtra&show_owner=true&theme=shadow_green)](https://github.com/Evan-Lim/42PiscineExtra)
+## Miscellaneous
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Evan-Lim&repo=Evan-Lim%2Fcrop_compiler&show_owner=true&theme=vue)](https://github.com/Evan-Lim/crop_compiler)
 <!--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
