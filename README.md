@@ -36,6 +36,7 @@ Start date of core programme: 21/9/2026
 - **[muography-project](https://github.com/Evan-Lim/muography-project)** — Muography imaging and analysis experiments.
 - **[crop-compiler](https://github.com/Evan-Lim/crop-compiler)** — A compiler project focused on crop-related domain logic.
 - **[crop-racket](https://github.com/Evan-Lim/crop-racket)** — Racket-based tooling for crop-related domain logic.
+- **[jpp-portal](https://github.com/Evan-Lim/jpp-portal)** — KMS JPP One-Stop Corner website.
 
 ---
 
