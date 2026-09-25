@@ -25,8 +25,8 @@ Start date of core programme: 21/9/2026
 
 | Project | Score | Repository | Date |
 |-|-|-|-|
-| **42 Piscine** | — | [github.com/Evan-Lim/42Piscine](https://github.com/EvanLimHongYan/42piscine) | 3/8/2026 - 28/8/2026 |
-| **42 Python Discovery Piscine** | — | [github.com/Evan-Lim/PythonDiscoveryPiscine](https://github.com/EvanLimHongYan/42pythondiscoverypiscine) | 14/9/2026 - 18/9/2026 |
+| **42 Piscine** | — | [github.com/Evan-Lim/42Piscine](https://github.com/Evan-Lim/42Piscine) | 3/8/2026 - 28/8/2026 |
+| **42 Python Discovery Piscine** | — | [github.com/Evan-Lim/PythonDiscoveryPiscine](https://github.com/Evan-Lim/PythonDiscoveryPiscine) | 14/9/2026 - 18/9/2026 |
 
 ---
 
