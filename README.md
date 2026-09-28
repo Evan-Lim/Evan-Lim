@@ -17,11 +17,12 @@ I'm an undergraduate student in Electrical Engineering, currently completing the
 
 Start date of core programme: 21/9/2026
 
-| Project | Score | Repository | Date |
-|---------|-------|------------|------|
-| **libft** | 100/100 | [github.com/Evan-Lim/libft](https://github.com/Evan-Lim/libft) | 22/9/2026 |
-| **get_next_line (gnl)** | 125/100 | [github.com/Evan-Lim/get_next_line](https://github.com/Evan-Lim/get_next_line) | 23/9/2026 |
-| **ft_printf** | 112/100* | [github.com/Evan-Lim/ft_printf](https://github.com/Evan-Lim/ft_printf) | 24/9/2026 |
+| Project | Score | Repository | Date | Campus |
+|---------|-------|------------|------|--------|
+| **libft** | 100/100 | [github.com/Evan-Lim/libft](https://github.com/Evan-Lim/libft) | 22/9/2026 | 42 Penang |
+| **get_next_line (gnl)** | 125/100 | [github.com/Evan-Lim/get_next_line](https://github.com/Evan-Lim/get_next_line) | 23/9/2026 | 42 Penang |
+| **ft_printf** | 112/100* | [github.com/Evan-Lim/ft_printf](https://github.com/Evan-Lim/ft_printf) | 24/9/2026 | 42 Penang |
+| **push_swap** | TBD | [https://github.com/Evan-Lim/push_swap](https://github.com/Evan-Lim/push_swap) | TBD | TBD |
 
 | Project | Score | Repository | Date |
 |-|-|-|-|
