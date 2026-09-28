@@ -33,6 +33,7 @@ Start date of core programme: 21/9/2026
 
 ## 🛠️ Personal Projects
 
+- **[libft_](https://github.com/Evan-Lim/libft_)** - Repository containing the updated libft for use in later C projects.
 - **[grademe](https://github.com/Evan-Lim/grademe)** — Repository for my exercises on an automated grading tool for 42 projects.
 - **[muography-project](https://github.com/Evan-Lim/muography-project)** — Muography imaging and analysis experiments.
 - **[crop-compiler](https://github.com/Evan-Lim/crop-compiler)** — A compiler project focused on crop-related domain logic.
